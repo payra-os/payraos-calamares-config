@@ -125,9 +125,9 @@ strings:
     shortProductName:    PayraOS
     version:             2310
     shortVersion:        2310
-    versionedName:       Fancy GNU/Linux 2023.3 LTS "Venomous Vole"
-    shortVersionedName:  FancyGL 2023.3
-    bootloaderEntryName: FancyGL
+    versionedName:       BadBlood
+    shortVersionedName:  BadBlood
+    bootloaderEntryName: PayraOS
     productUrl:          https://calamares.io/
     supportUrl:          https://github.com/calamares/calamares/wiki
     knownIssuesUrl:      https://github.com/calamares/calamares/issues
