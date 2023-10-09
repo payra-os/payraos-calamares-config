@@ -184,6 +184,8 @@ style:
    SidebarText:              "#FFFFFF"
    SidebarTextCurrent:       "#62d762"
    SidebarBackgroundCurrent: "#754FFE"
+   SidebarTextSelect:    "#444"
+   SidebarTextHighlight: "#FFFFFF"
 
 ### SLIDESHOW
 #
