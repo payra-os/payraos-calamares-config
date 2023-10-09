@@ -128,11 +128,11 @@ strings:
     versionedName:       BadBlood
     shortVersionedName:  BadBlood
     bootloaderEntryName: PayraOS
-    productUrl:          https://calamares.io/
-    supportUrl:          https://github.com/calamares/calamares/wiki
-    knownIssuesUrl:      https://github.com/calamares/calamares/issues
-    releaseNotesUrl:     https://calamares.io/news/
-    donateUrl:           https://kde.org/community/donations/index.php
+#   productUrl:          https://calamares.io/
+#   supportUrl:          https://github.com/calamares/calamares/wiki
+#   knownIssuesUrl:      https://github.com/calamares/calamares/issues
+#   releaseNotesUrl:     https://calamares.io/news/
+#   donateUrl:           https://kde.org/community/donations/index.php
 
 # These images are loaded from the branding module directory.
 #
