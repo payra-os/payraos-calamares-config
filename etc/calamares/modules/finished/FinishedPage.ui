@@ -99,7 +99,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
           <string notr="true">&lt;Restart checkbox tooltip&gt;</string>
          </property>
          <property name="text">
-          <string>&amp;Restart now</string>
+          <string>&amp;Restart now to boot Payra OS.</string>
          </property>
          <property name="checked">
           <bool>false</bool>
